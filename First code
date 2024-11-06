@@ -48,3 +48,7 @@ async function runDownloadedFile(filePath) {
         console.error(`An error occurred: ${error}`);
     }
 })();
+
+
+Replace 'https://example.com/path/to/your/file.js' with the URL of the file you want to download.
+This script downloads the file to downloadedFile.js in the same directory as the project. Adjust the filename or path as needed.
